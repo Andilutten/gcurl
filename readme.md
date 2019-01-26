@@ -1,5 +1,5 @@
 # Golang Curl
-I hate using curl. Mainly because of how the interface is setup. I can never remember wich flags doest what, so i created i tiny curlish client in golang to help me achieve the same purpose
+I hate using curl. Mainly because of the interface. I can never remember wich flags does what, so i created a tiny curlish client in golang to help me achieve the same purpose
 
 ## Installation
 Get the code and install the binary, and you are done
